@@ -7,6 +7,6 @@ Something about me:
 - 🔭 I’m currently working on Mini Games for a platform. 
 - 🌱 I’m currently learning C++
 - 📫 How to reach me:
-![GitHub igordias2](https://img.shields.io/github/followers/igordias2?label=follow&style=social)](https://github.com/igordias2)
-![Instagram igordiasjd](https://instagram.com/igordiasjd)
-![Linkedin igordiassiqueira](https://linkedin.com/igordiassiqueira)
+![[GitHub igordias2](https://img.shields.io/github/followers/igordias2?label=follow&style=social)(https://github.com/igordias2)]
+![Instagram igordiasjd](https://img.shields.io/badge/Instagram-igordiasjd-purple)(https://instagram.com/igordiasjd)
+![Linkedin igordiassiqueira](https://img.shields.io/badge/Linkedin-igordiassiqueira-blue)(https://linkedin.com/igordiassiqueira)
