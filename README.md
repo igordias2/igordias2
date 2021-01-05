@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Igor Dias
 
-<!--
-**igordias2/igordias2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I try to understand each part of the development and to develop projects as [UDRMS - a Lobby and Master Server using DarkRift2](https://github.com/igordias2/UDRMS),[GSAG - Generic Sprite Atlas Generator](https://github.com/igordias2/GSAG), [Snake Multiplayer using Pixi.js and Socket.IO](https://github.com/igordias2/snake-pixi-multiplayer) and more! 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Something about me:
+- 🌐 I Love Work and Play Realtime Multiplayer Games.
+- 🔭 I’m currently working on Mini Games for a platform. 
+- 🌱 I’m currently learning C++
+- 📫 How to reach me:
+![GitHub igordias2](https://img.shields.io/github/followers/igordias2?label=follow&style=social)](https://github.com/igordias2)
+![Instagram igordiasjd](https://instagram.com/igordiasjd)
+![Linkedin igordiassiqueira](https://linkedin.com/igordiassiqueira)
