@@ -1,6 +1,6 @@
 ### Hi there, I'm Igor Dias
 
-I try to understand each part of the development and developed projects as you can see ([here](https://www.notion.so/igordiasdev/Igor-Dias-383d7cd4fd4d40cab53eb67e1f6d882d))!
+I try to understand each part of the development and developed projects as you can see [here](https://www.notion.so/igordiasdev/Igor-Dias-383d7cd4fd4d40cab53eb67e1f6d882d)!
 
 Something about me:
 - 🌐 I Love to Work on Realtime Multiplayer Games and Ethereum Contracts.
