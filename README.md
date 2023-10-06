@@ -1,6 +1,6 @@
 ### Hi there, I'm Igor Dias
 
-I try to understand each part of the development and to develop projects as [UDRMS - a Lobby and Master Server using DarkRift2](https://github.com/igordias2/UDRMS), [GSAG - Generic Sprite Atlas Generator](https://github.com/igordias2/GSAG), [Snake Multiplayer using Pixi.js and Socket.IO](https://github.com/igordias2/snake-pixi-multiplayer) and more! 
+I try to understand each part of the development and developed projects as [UDRMS - a Lobby and Master Server using DarkRift2](https://github.com/igordias2/UDRMS), [GSAG - Generic Sprite Atlas Generator](https://github.com/igordias2/GSAG), [Snake Multiplayer using Pixi.js and Socket.IO](https://github.com/igordias2/snake-pixi-multiplayer) and more! 
 
 Something about me:
 - 🌐 I Love to Work on Realtime Multiplayer Games and Ethereum Contracts.
