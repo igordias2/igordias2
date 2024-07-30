@@ -4,8 +4,8 @@ I try to understand each part of the development and developed projects as you c
 
 Something about me:
 - 🌐 I Love to Work on Realtime Multiplayer Games and Ethereum Contracts.
-- 🔭 I’m currently working on a Schooling System. 
-- 🌱 I’m currently learning Solidity
+- 🔭 I’m currently working on some games. 
+- 🌱 I’m currently learning C++ and Unreal Engine
 - 📫 How to reach me:
 
 [![GitHub igordias2](https://img.shields.io/github/followers/igordias2?label=follow&style=social)](https://github.com/igordias2)
