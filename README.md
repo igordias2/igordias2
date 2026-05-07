@@ -3,7 +3,7 @@
 I try to understand each part of the development and developed projects as you can see [here](https://www.notion.so/igordiasdev/Igor-Dias-383d7cd4fd4d40cab53eb67e1f6d882d)!
 
 Something about me:
-- 🌐 I Love to Work on Realtime Multiplayer Games and Ethereum Contracts.
+- 🌐 My passion is develop Games with a plus for Multiplayer.
 - 🔭 I’m currently working on some games. 
 - 🌱 I’m currently learning C++ and Unreal Engine
 - 📫 How to reach me:
